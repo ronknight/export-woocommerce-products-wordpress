@@ -14,10 +14,10 @@ driver = webdriver.Chrome()
 # Your Wordpress website admin URL 
 driver.get('https://yourwordpresssite.com/wp-admin')
 
-# Find generate button (uncomment next line if jetpack login is enabled)
-# generate_button = driver.find_element_by_xpath("//a [@class='jetpack-sso-toggle wpcom']")
-# Click generate button (uncomment next line if jetpack login is enabled)
-# generate_button.click()
+# Find login using username and password link (uncomment next line if jetpack login is enabled)
+# login_username_password_link = driver.find_element_by_xpath("//a [@class='jetpack-sso-toggle wpcom']")
+# Click login using username and password link (uncomment next line if jetpack login is enabled)
+# login_username_password_link = driver.find_element_by_xpath("//a [@class='jetpack-sso-toggle wpcom']").click()
 
 # Select the id box
 id_box = driver.find_element_by_id('user_login')
