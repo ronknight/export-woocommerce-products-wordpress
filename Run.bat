@@ -1,8 +1,7 @@
-:: Author: Ron Aduna
+:: Author: Ronknight
 :: Date: 12/27/18
 :: License: MIT
 :: Tags: Batch, Python, py, bat
-:: Donate link: https://www.paypal.me/ronaduna
 
 @echo off
 :: location of your python file

@@ -1,13 +1,12 @@
 # Make Python do the boring stuff for you, This will automate the exporting of all your woocommerce products.
 
-##### Author: Ron Aduna
+##### Author: Ronknight
 ##### Date: 12/27/18
 ##### License: MIT
 ##### Tags: Selenium, Chrome, Wordpress, Woocommerce, Export, Products 
 ##### Requires at least: Wordpress 3.0.1
 ##### Tested up to: Wordpress 5.0.2
 ##### Requires: Python 3.7.1, Selenium 1.22, Chromedriver 2.24.1
-##### Donate link: https://www.paypal.me/ronaduna
 ---
 
 ## Edit files
